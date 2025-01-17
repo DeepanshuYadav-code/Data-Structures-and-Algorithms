@@ -5,4 +5,5 @@ This repository is dedicated to exploring and implementing fundamental data stru
 ## Getting Started
 
 1. **Clone the Repository:**
+	```bash
    git clone https://github.com/DeepanshuYadav-code/Data-Structures-and-Algorithms.git
