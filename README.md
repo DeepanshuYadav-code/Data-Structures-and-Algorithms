@@ -7,3 +7,9 @@ This repository is dedicated to exploring and implementing fundamental data stru
 1. **Clone the Repository:**
 	```bash
    git clone https://github.com/DeepanshuYadav-code/Data-Structures-and-Algorithms.git
+
+2. **Contributing**
+I welcome contributions from the community! Feel free to fork this repository, experiment, and submit pull requests with improvements, bug fixes, or new implementations.
+
+3. **Acknowledgements**
+Thank you for visiting this repository! I hope you find it helpful in your journey of learning data structures and algorithms.
